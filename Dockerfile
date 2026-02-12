@@ -1,0 +1,1 @@
+FROM pyqlib/qlib_image_stable:stable
